@@ -50,18 +50,10 @@
 
 ###
 
-<img align="left" height="400" src="https://i.pinimg.com/1200x/86/69/eb/8669eba0409a6c84231aa8ca319409c7.jpg"  />
+<img align="left" height="700" src="https://i.pinimg.com/1200x/86/69/eb/8669eba0409a6c84231aa8ca319409c7.jpg"  />
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/10dhu0e7du7noax8gio5my2kt">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=10dhu0e7du7noax8gio5my2kt&count=6&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Thanks for pulling up. Stay solid.</h2>
+<h2 align="center">Thanks for pulling up. Stay solid.</h2>
 
 ###

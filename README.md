@@ -30,9 +30,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoVictorAAbreu-Dev.JoaoVictorAAbreu-Dev&left_color=green&right_color=forestgreen"  />
-</div>
+
 
 ###
 

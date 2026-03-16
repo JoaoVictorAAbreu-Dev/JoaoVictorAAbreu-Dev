@@ -40,13 +40,11 @@
 
 ###
 
-<div align="center">
-  <img height="500" src="https://i.pinimg.com/webp/1200x/81/59/e0/8159e00bf1b72ec93bce8e002d9edc72.webp"  />
-</div>
+<img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/output/snake.svg" alt="Snake animation" />
+<h3 align="center">statistic</h3>
 
 ###
 
@@ -59,6 +57,6 @@
 
 <br clear="both">
 
-<h3 align="center">Appreciate y’all pullin’ up fr. Stay sharp, keep grindin’, and keep buildin</h3>
+<h4 align="center">Appreciate y’all pullin’ up fr. Stay sharp, keep grindin’, and keep buildin</h4>
 
 ###

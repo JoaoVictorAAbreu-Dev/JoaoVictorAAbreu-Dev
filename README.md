@@ -4,15 +4,15 @@
 
 ###
 
-<img align="right" height="145" src="https://i.pinimg.com/736x/dd/b2/2f/ddb22fbd52ea8987a64adfac63cce265.jpg"  />
+<img align="right" height="148" src="https://i.pinimg.com/736x/dd/b2/2f/ddb22fbd52ea8987a64adfac63cce265.jpg"  />
 
 ###
 
-<h1 align="left">Yo what's good gang, welcome to my Github.</h1>
+<h3 align="left">Yo what's good gang, welcome to my Github.</h3>
 
 ###
 
-<h6 align="left">About Me</h6>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">My Statistic</h5>
+<h3 align="left">My Statistic</h3>
 
 ###
 

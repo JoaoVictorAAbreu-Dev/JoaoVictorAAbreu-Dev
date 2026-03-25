@@ -65,6 +65,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/webp/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.webp"  />
+</div>
+
+###
+
 <h3 align="left">Appreciate y’all pullin’ up fr. Stay sharp, keep grindin’, and keep buildin</h3>
 
 ###

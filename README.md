@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/webp/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.webp"  />
+  <img height="205" src="https://i.pinimg.com/1200x/1f/2c/b1/1f2cb19d5db2b0c6057e503c4265c57a.jpg"  />
 </div>
 
 ###

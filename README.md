@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/736x/25/44/9f/25449f064f9c902042f37964fec6e8e7.jpg" />
+  <img height="500" src="https://i.pinimg.com/736x/04/97/84/049784cee219b2f004fc6d8466b7ad9d.jpg" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
   About Me
 </h3>
 
-<img align="right" height="200" src="https://i.pinimg.com/1200x/3c/dd/c0/3cddc0fd2bd247462f3f5216edcbfa87.jpg" />
+<img align="right" height="200" src="https://i.pinimg.com/736x/29/a9/19/29a9192fcfa9a51b15b37181d63ec20b.jpg" />
 
 <p align="left">
   I’m a Computer Science student focused on backend engineering, scalable architectures, and software development with real-world impact.
@@ -175,7 +175,7 @@ Python • Pandas
 ---
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.jpg" />
+  <img height="500" src="https://i.pinimg.com/736x/0d/c9/90/0dc9906b08b2801bce339f9036351565.jpg" />
 </div>
 
 ---

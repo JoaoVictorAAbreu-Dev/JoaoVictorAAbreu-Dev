@@ -54,7 +54,7 @@ A full-stack platform for monitoring roadside vegetation, prioritizing maintenan
 
 **Stack:** FastAPI · React · TypeScript · SQLAlchemy · Pydantic · PostgreSQL · ETL
 
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/orion-operacional)
+[View repository →](https://github.com/JoaoVictorAAbreu-Dev/motiva-orion-operational-platform)
 
 ### 2. Centro Operacional Verde — architecture and operational flow
 
@@ -62,7 +62,7 @@ A web platform focused on vegetation monitoring, service priority, team planning
 
 **Stack:** Java 21 · Spring Boot · Spring Security · JWT · JPA · PostgreSQL · React · Vite · Docker
 
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/centro-operacional-verde)
+[View repository →](https://github.com/JoaoVictorAAbreu-Dev/green-operations-control-center)
 
 ### 3. CodeFlow — study and developer productivity platform
 
@@ -78,7 +78,7 @@ An AI-oriented productivity project that explores how software can support devel
 
 **Focus:** Java · backend systems · AI-assisted productivity · product thinking
 
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/project-devtrack-ai)
+[View repository →](https://github.com/JoaoVictorAAbreu-Dev/devtrack-ai-platform)
 
 ### 5. Climate Analytics — data applied to real-world context
 
@@ -86,7 +86,7 @@ A climate analysis project built around INMET data, exploratory analysis, and Py
 
 **Stack:** Python · Pandas · data analysis
 
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/project-climate-analytics)
+[View repository →](https://github.com/JoaoVictorAAbreu-Dev/climate-analytics-platform)
 
 ### 6. Portfolio — professional presentation layer
 
@@ -94,18 +94,18 @@ A recruiter-oriented portfolio that brings together selected case studies, techn
 
 **Stack:** React · Vite · TypeScript · Tailwind CSS · Framer Motion
 
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/project-portfolio)
+[View repository →](https://github.com/JoaoVictorAAbreu-Dev/software-engineering-portfolio)
 
 <details>
 <summary><strong>Explore the rest of my public work</strong></summary>
 
 <br />
 
-**APIs and backend:** [AtlasOps API](https://github.com/JoaoVictorAAbreu-Dev/atlasops-api) · [FocusPilot API](https://github.com/JoaoVictorAAbreu-Dev/focuspilot-api) · [LedgerPulse API](https://github.com/JoaoVictorAAbreu-Dev/ledgerpulse-api) · [PulseDesk API](https://github.com/JoaoVictorAAbreu-Dev/pulsedesk-api) · [TaskFlow Dev](https://github.com/JoaoVictorAAbreu-Dev/taskflow-dev)
+**APIs and backend:** [AtlasOps API](https://github.com/JoaoVictorAAbreu-Dev/atlas-operations-api) · [FocusPilot API](https://github.com/JoaoVictorAAbreu-Dev/focus-pilot-api) · [LedgerPulse API](https://github.com/JoaoVictorAAbreu-Dev/ledger-pulse-api) · [PulseDesk API](https://github.com/JoaoVictorAAbreu-Dev/pulse-desk-api) · [TaskFlow Dev](https://github.com/JoaoVictorAAbreu-Dev/taskflow-management-java)
 
-**Academic and systems projects:** [C++ database](https://github.com/JoaoVictorAAbreu-Dev/mini-banco-dados-cpp) · [C# corporate ticketing](https://github.com/JoaoVictorAAbreu-Dev/sistema-chamados-corporativos-csharp) · [Inventory management](https://github.com/JoaoVictorAAbreu-Dev/sistema-gestao-estoque-inteligente) · [Personal finance](https://github.com/JoaoVictorAAbreu-Dev/sistema-financeiro-pessoal) · [Banking system](https://github.com/JoaoVictorAAbreu-Dev/study-banking-system-java)
+**Academic and systems projects:** [C++ database](https://github.com/JoaoVictorAAbreu-Dev/cpp-mini-database) · [C# corporate ticketing](https://github.com/JoaoVictorAAbreu-Dev/corporate-ticketing-system-csharp) · [Inventory management](https://github.com/JoaoVictorAAbreu-Dev/intelligent-inventory-management-java) · [Personal finance](https://github.com/JoaoVictorAAbreu-Dev/personal-finance-management-java) · [Banking system](https://github.com/JoaoVictorAAbreu-Dev/java-study-banking-system)
 
-**Studies and experiments:** [Deep Learning Fundamentals](https://github.com/JoaoVictorAAbreu-Dev/study-deep-learning-fundamentals) · [Jarvis AI Assistant](https://github.com/JoaoVictorAAbreu-Dev/study-jarvis-ai-assistant) · [Go studies](https://github.com/JoaoVictorAAbreu-Dev/study-go) · [QueueLess](https://github.com/JoaoVictorAAbreu-Dev/study-queueless-sistema-de-gestao-de-filas) · [Focus Loop Lab](https://github.com/JoaoVictorAAbreu-Dev/study-focus-loop-lab) · [Pomodoro app](https://github.com/JoaoVictorAAbreu-Dev/study-pomodoro-app)
+**Studies and experiments:** [Deep Learning Fundamentals](https://github.com/JoaoVictorAAbreu-Dev/deep-learning-fundamentals) · [Jarvis AI Assistant](https://github.com/JoaoVictorAAbreu-Dev/jarvis-ai-assistant) · [Go studies](https://github.com/JoaoVictorAAbreu-Dev/go-programming-studies) · [QueueLess](https://github.com/JoaoVictorAAbreu-Dev/queueless-queue-management) · [Focus Loop Lab](https://github.com/JoaoVictorAAbreu-Dev/focus-loop-lab) · [Pomodoro app](https://github.com/JoaoVictorAAbreu-Dev/pomodoro-study-app)
 
 [See all repositories →](https://github.com/JoaoVictorAAbreu-Dev?tab=repositories)
 
@@ -167,7 +167,7 @@ If you are interested in backend engineering, practical software architecture, A
 
 <div align="center">
 
-[**LinkedIn**](https://www.linkedin.com/in/joaovictoraabreu/) · [**GitHub**](https://github.com/JoaoVictorAAbreu-Dev) · [**Email**](mailto:joaovictoralvesabreu0812@gmail.com) · [**Portfolio repository**](https://github.com/JoaoVictorAAbreu-Dev/project-portfolio)
+[**LinkedIn**](https://www.linkedin.com/in/joaovictoraabreu/) · [**GitHub**](https://github.com/JoaoVictorAAbreu-Dev) · [**Email**](mailto:joaovictoralvesabreu0812@gmail.com) · [**Portfolio repository**](https://github.com/JoaoVictorAAbreu-Dev/software-engineering-portfolio)
 
 </div>
 

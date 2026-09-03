@@ -99,13 +99,11 @@ Python • Pandas
   My Statistics
 </h3>
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JoaoVictorAAbreu-Dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/stats-output/stats.svg" height="165" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=JoaoVictorAAbreu-Dev&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=true&amp;border_radius=5" height="165" alt="GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/languages-output/languages.svg" height="165" alt="Most used programming languages" />
 </div>
-
 
 ---
 
@@ -114,7 +112,7 @@ Python • Pandas
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoVictorAAbreu-Dev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoVictorAAbreu-Dev&amp;theme=github_dark" alt="GitHub contribution activity" />
 </div>
 
 ---

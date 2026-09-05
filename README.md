@@ -1,168 +1,159 @@
 <div align="center">
 
-# João Victor Alves de Abreu
+<a href="https://github.com/JoaoVictorAAbreu-Dev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:0f172a&height=210&section=header&text=JO%C3%83O%20VICTOR%20ALVES%20DE%20ABREU&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=60&descSize=18&animation=fadeIn" alt="Banner de João Victor Alves de Abreu" />
+</a>
 
-### Computer Science Student · Backend Developer · Java & Spring Boot
-
-Building reliable software with **clear architecture, practical data, and purposeful interfaces**.
+### Building reliable software with clear architecture, practical data and purposeful interfaces.
 
 <p>
-<a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
   <a href="https://www.linkedin.com/in/joaovictoraabreu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:joaovictoralvesabreu0812@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
-</p> </div>
+</p>
 
----
-
-## Profile overview
-
-Computer Science student based in **São Paulo, Brazil**, focused on backend engineering and the construction of maintainable software products. My main path is **Java and Spring Boot**, complemented by Python, TypeScript, React, PostgreSQL, Docker, and ongoing studies in system design, artificial intelligence, and data-driven applications.
-
-My repositories show a progression from programming fundamentals and academic projects to full-stack products, authenticated APIs, operational dashboards, and applied AI experiments.
-
-<details>
-<summary><strong>What I am looking for</strong></summary>   
-
-
-Opportunities where I can contribute as a **backend or software engineering intern/junior developer**, learn from production systems, and turn well-defined problems into dependable solutions.
-
-</details>
-
----
-
-## What I build
-
-| Direction | What it means in practice |
-| --- | --- |
-| **Backend systems** | REST APIs, authentication, business rules, persistence, validation, and maintainable service boundaries. |
-| **Operational products** | Dashboards and workflows that transform operational data into prioritization and planning decisions. |
-| **Full-stack experiences** | React and TypeScript interfaces connected to APIs, metrics, maps, and user-oriented flows. |
-| **AI and data experiments** | Practical applications of AI, analytics, ETL, and structured data to support better decisions. |
-
----
-
-## Selected work
-
-These projects were selected from my public repositories because they best represent the direction I want to communicate professionally.
-
-### 1. Motiva ORION — operational intelligence for highways
-
-A full-stack platform for monitoring roadside vegetation, prioritizing maintenance, and supporting operational decisions. It combines an operational map, dashboards, data import, explainable priority rules, and simulations for climate, growth, and recommendations.
-
-**Stack:** FastAPI · React · TypeScript · SQLAlchemy · Pydantic · PostgreSQL · ETL
-
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/orion-operacional)
-
-### 2. Centro Operacional Verde — architecture and operational flow
-
-A web platform focused on vegetation monitoring, service priority, team planning, and operational simulations. The repository demonstrates a Java backend with security and persistence connected to a React interface.
-
-**Stack:** Java 21 · Spring Boot · Spring Security · JWT · JPA · PostgreSQL · React · Vite · Docker
-
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/centro-operacional-verde)
-
-### 3. CodeFlow — study and developer productivity platform
-
-A product foundation designed to help programming students plan study blocks, track projects, build roadmaps, measure consistency, and receive lightweight AI study support. The project reflects my interest in turning learning workflows into useful software.
-
-**Direction:** Next.js · React · TypeScript · Tailwind CSS · Java · Spring Boot · PostgreSQL · Redis · Docker
-
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/codeflow-study-platform)
-
-### 4. DevTrack AI — developer productivity concept
-
-An AI-oriented productivity project that explores how software can support developers in organizing work, learning, and execution. It is part of my product-focused project portfolio.
-
-**Focus:** Java · backend systems · AI-assisted productivity · product thinking
-
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/project-devtrack-ai)
-
-### 5. Climate Analytics — data applied to real-world context
-
-A climate analysis project built around INMET data, exploratory analysis, and Python-based data processing. It represents my interest in combining software engineering with evidence-based analysis.
-
-**Stack:** Python · Pandas · data analysis
-
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/project-climate-analytics)
-
-### 6. Portfolio — professional presentation layer
-
-A recruiter-oriented portfolio that brings together selected case studies, technical positioning, and direct contact paths in a focused web experience.
-
-**Stack:** React · Vite · TypeScript · Tailwind CSS · Framer Motion
-
-[View repository →](https://github.com/JoaoVictorAAbreu-Dev/project-portfolio)
-
-<details>
-<summary><strong>Explore the rest of my public work</strong></summary>   
-
-
-**APIs and backend:** [AtlasOps API](https://github.com/JoaoVictorAAbreu-Dev/atlasops-api) · [FocusPilot API](https://github.com/JoaoVictorAAbreu-Dev/focuspilot-api) · [LedgerPulse API](https://github.com/JoaoVictorAAbreu-Dev/ledgerpulse-api) · [PulseDesk API](https://github.com/JoaoVictorAAbreu-Dev/pulsedesk-api) · [TaskFlow Dev](https://github.com/JoaoVictorAAbreu-Dev/taskflow-dev)
-
-**Academic and systems projects:** [C++ database](https://github.com/JoaoVictorAAbreu-Dev/mini-banco-dados-cpp) · [C# corporate ticketing](https://github.com/JoaoVictorAAbreu-Dev/sistema-chamados-corporativos-csharp) · [Inventory management](https://github.com/JoaoVictorAAbreu-Dev/sistema-gestao-estoque-inteligente) · [Personal finance](https://github.com/JoaoVictorAAbreu-Dev/sistema-financeiro-pessoal) · [Banking system](https://github.com/JoaoVictorAAbreu-Dev/study-banking-system-java)
-
-**Studies and experiments:** [Deep Learning Fundamentals](https://github.com/JoaoVictorAAbreu-Dev/study-deep-learning-fundamentals) · [Jarvis AI Assistant](https://github.com/JoaoVictorAAbreu-Dev/study-jarvis-ai-assistant) · [Go studies](https://github.com/JoaoVictorAAbreu-Dev/study-go) · [QueueLess](https://github.com/JoaoVictorAAbreu-Dev/study-queueless-sistema-de-gestao-de-filas) · [Focus Loop Lab](https://github.com/JoaoVictorAAbreu-Dev/study-focus-loop-lab) · [Pomodoro app](https://github.com/JoaoVictorAAbreu-Dev/study-pomodoro-app)
-
-[See all repositories →](https://github.com/JoaoVictorAAbreu-Dev?tab=repositories)
-
-</details>
-
----
-
-## Technical toolkit
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F)![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div> <details>
-<summary><strong>Additional technologies explored</strong></summary>   
-
-
-C · C++ · C# · Kotlin · Dart · Rust · JavaScript · HTML/CSS · Vite · Tailwind CSS · FastAPI · SQLAlchemy · JPA/Hibernate · Spring Security · JWT · Redis · Swagger/OpenAPI · Pandas
-
-</details>
-
----
-
-## GitHub activity & status
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/stats-output/stats.svg" height="165" alt="GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/languages-output/languages.svg" height="165" alt="Most used programming languages" />
-</div> <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoVictorAAbreu-Dev&amp;theme=github_dark" alt="GitHub contribution activity" />
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+```java
+public final class JoaoVictor {
+
+    private final String location = "São Paulo, Brazil";
+    private final String role = "Computer Science Student";
+    private final String focus = "Backend Engineering";
+
+    private final String[] building = {
+        "REST APIs and authenticated services",
+        "Maintainable Java and Spring Boot systems",
+        "Operational products driven by data",
+        "AI-assisted tools with practical value"
+    };
+
+    private final String[] learning = {
+        "Software architecture and system design",
+        "Testing, security and database practices",
+        "Data pipelines and technical communication"
+    };
+
+    private final String[] mainStack = {
+        "Java", "Spring Boot", "Python", "TypeScript",
+        "React", "PostgreSQL", "Docker", "Git"
+    };
+}
+```
+
+> I am looking for opportunities where I can contribute as a backend or software engineering intern/junior developer, learn from production systems and turn well-defined problems into dependable solutions.
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joaovictoraabreu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:joaovictoralvesabreu0812@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/JoaoVictorAAbreu-Dev"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/JoaoVictorAAbreu-Dev/software-engineering-portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,nextjs,postgres,docker,git,github,linux,fastapi,redis,graphql&perline=7" alt="Technologies: Java, Spring, Python, TypeScript, React, Next.js, PostgreSQL, Docker, Git, GitHub, Linux, FastAPI, Redis and GraphQL" />
+</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot%20%7C%20FastAPI-1d4ed8?style=flat-square" alt="Backend technologies" />
+<img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20Pandas%20%7C%20ETL-0f766e?style=flat-square" alt="Data technologies" />
+<img src="https://img.shields.io/badge/Delivery-Docker%20%7C%20GitHub%20Actions%20%7C%20Linux-334155?style=flat-square" alt="Delivery technologies" />
+
+</div>
+
+<details>
+<summary><strong>Additional technologies explored</strong></summary>
+
+C · C++ · C# · Kotlin · Dart · Rust · JavaScript · HTML/CSS · Vite · Tailwind CSS · SQLAlchemy · JPA/Hibernate · Spring Security · JWT · Swagger/OpenAPI · Redis
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌿 Motiva ORION</h3>
+      <p>Full-stack platform for roadside vegetation monitoring, maintenance prioritization, operational mapping, data import and explainable simulations.</p>
+      <p><strong>FastAPI · React · TypeScript · PostgreSQL · ETL</strong></p>
+      <a href="https://github.com/JoaoVictorAAbreu-Dev/orion-operacional">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Centro Operacional Verde</h3>
+      <p>Operational platform connecting a secure Java backend with React workflows for monitoring, service priority and team planning.</p>
+      <p><strong>Java 21 · Spring Boot · JWT · JPA · React · Docker</strong></p>
+      <a href="https://github.com/JoaoVictorAAbreu-Dev/centro-operacional-verde">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 CodeFlow</h3>
+      <p>Developer productivity platform for study blocks, project tracking, roadmaps, consistency and lightweight AI support.</p>
+      <p><strong>Next.js · React · TypeScript · Java · PostgreSQL · Redis</strong></p>
+      <a href="https://github.com/JoaoVictorAAbreu-Dev/codeflow-study-platform">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 DevTrack AI</h3>
+      <p>AI-oriented product concept exploring how software can support developers in organizing work, learning and execution.</p>
+      <p><strong>Java · Backend Systems · AI-assisted Productivity</strong></p>
+      <a href="https://github.com/JoaoVictorAAbreu-Dev/project-devtrack-ai">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><strong>Explore all repositories →</strong></a></p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/stats-output/stats.svg" height="165" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/languages-output/languages.svg" height="165" alt="Most used programming languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoVictorAAbreu-Dev&theme=github_dark" alt="GitHub contribution activity" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/snake-output/snake.svg" alt="GitHub contribution snake animation" />
 </div>
 
 <p align="center">
-  <sub>Cards generated automatically with the GitHub Actions workflow recommended by <a href="https://github.com/carvalinh0/github-readme-stats">github-readme-stats</a>.</sub>
+  <sub>Cards generated automatically with the workflow recommended by <a href="https://github.com/carvalinh0/github-readme-stats">github-readme-stats</a>.</sub>
 </p>
 
 ---
 
-## Currently learning
-
-- Designing scalable and maintainable backend architectures.
-
-- Deepening Java, Spring Boot, security, testing, and database practices.
-
-- Connecting AI capabilities to useful software products.
-
-- Improving data pipelines, operational analytics, and technical communication.
-
----
-
-## Let’s connect
-
-If you are interested in backend engineering, practical software architecture, AI-assisted products, or collaborative learning, feel free to reach out.
+## 📖 Currently Learning
 
 <div align="center">
 
-[**LinkedIn**](https://www.linkedin.com/in/joaovictoraabreu/) · [**GitHub**](https://github.com/JoaoVictorAAbreu-Dev) · [**Email**](mailto:joaovictoralvesabreu0812@gmail.com) · [**Portfolio repository**](https://github.com/JoaoVictorAAbreu-Dev/project-portfolio)
+`Scalable Backend Architectures` · `Java & Spring Boot` · `Security & Testing` · `Data Pipelines` · `AI-assisted Products`
 
 </div>
 
@@ -170,10 +161,14 @@ If you are interested in backend engineering, practical software architecture, A
 
 <div align="center">
 
-> Strategy before execution.
+### Strategy before execution.
 
-</div> <!--
-References used for structure and presentation:
-  - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
-  - https://github.com/abhisheknaiidu/awesome-github-profile-readme
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:111827&height=100&section=footer" alt="Footer" />
+
+</div>
+
+<!--
+References:
+- https://github.com/carvalinh0/github-readme-stats
+- https://skillicons.dev/
 -->

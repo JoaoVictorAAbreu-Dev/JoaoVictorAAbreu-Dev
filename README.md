@@ -125,7 +125,7 @@ C · C++ · C# · Kotlin · Dart · Rust · JavaScript · HTML/CSS · Vite · Ta
 
 ---
 
-## GitHub activity
+## GitHub activity & status
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/stats-output/stats.svg" height="165" alt="GitHub statistics" />
@@ -133,6 +133,14 @@ C · C++ · C# · Kotlin · Dart · Rust · JavaScript · HTML/CSS · Vite · Ta
 </div> <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoVictorAAbreu-Dev&amp;theme=github_dark" alt="GitHub contribution activity" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/snake-output/snake.svg" alt="GitHub contribution snake animation" />
+</div>
+
+<p align="center">
+  <sub>Cards generated automatically with the GitHub Actions workflow recommended by <a href="https://github.com/carvalinh0/github-readme-stats">github-readme-stats</a>.</sub>
+</p>
 
 ---
 

@@ -1,130 +1,113 @@
 <div align="center">
 
-<a href="https://github.com/JoaoVictorAAbreu-Dev">
-  <img width="100%" src="./assets/github-banner.svg" alt="João Victor Alves de Abreu — Backend systems. Real-world impact." />
-</a>
+# Joao Victor Alves de Abreu
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1800&color=7777DD&center=true&vCenter=true&width=640&height=46&repeat=false&lines=Building+reliable+software+around+real-world+problems." width="640" alt="Building reliable software around real-world problems." />
-</a>
+### Backend-focused software engineer building reliable systems for real-world problems
 
-Computer Science student focused on backend engineering, system design and data-driven applications.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1600&color=0F766E&center=true&vCenter=true&width=720&height=42&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+PostgreSQL;APIs%2C+authentication%2C+data+and+operational+systems;Learning+in+public+and+shipping+useful+software" alt="Typing animation describing Joao Victor's focus" /></a>
 
-[LinkedIn](https://www.linkedin.com/in/joaovictoraabreu/) · [Projects](https://github.com/JoaoVictorAAbreu-Dev?tab=repositories) · [Email](mailto:joaovictoralvesabreu0812@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/joaovictoraabreu/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:joaovictoralvesabreu0812@gmail.com">Email</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories">Repositories</a>
+</p>
 
 </div>
 
-<br>
+## About
 
-### Beyond the interface
+I am a Computer Science student from Sao Paulo, Brazil, focused on backend engineering and system design. I enjoy turning practical problems into maintainable software through clear APIs, secure authentication, well-structured data and thoughtful engineering decisions.
 
-Based in São Paulo, Brazil. I build projects around practical problems, with a focus on **Java and Spring Boot**. What interests me most is the work behind the interface: API design, authentication, databases and the decisions that make a system easier to maintain.
+My current focus is Java and Spring Boot, with complementary experience in Python, React, TypeScript, PostgreSQL and Docker. I am open to backend and software engineering internship or junior opportunities.
 
-Currently exploring software architecture, distributed systems and data engineering through operational platforms and developer tools.
+## What I Build
 
-Open to **Backend and Software Engineering internship or junior opportunities**.
+- REST APIs and backend services with clear contracts
+- Authentication and authorization with Spring Security, JWT and role-based access
+- Operational platforms for monitoring, prioritization and team workflows
+- Data-driven applications with PostgreSQL, ETL pipelines and explainable analysis
+- Developer productivity tools for planning, study and technical progress
 
-<br>
-
-### Tools I work with
+## Tech Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="32" height="32" alt="Java" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="32" height="32" alt="Spring" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="32" height="32" alt="Python" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="32" height="32" alt="React" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" /> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="32" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="36" height="36" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="36" height="36" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="36" height="36" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="36" height="36" alt="Git" />
 </p>
 
-**Core**  
-Java · Spring Boot · Python · TypeScript · SQL
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Security, JWT, JPA, Hibernate, Python, FastAPI |
+| Frontend | React, TypeScript, Next.js, Tailwind CSS |
+| Data and infrastructure | PostgreSQL, Redis, ETL, Docker, Linux |
+| Quality and delivery | JUnit, Mockito, Swagger/OpenAPI, GitHub Actions |
 
-**Backend & data**  
-FastAPI · JPA / Hibernate · Spring Security · JWT · PostgreSQL · Redis · ETL · GraphQL
+## Selected Projects
 
-**Frontend & delivery**  
-React · Next.js · Tailwind CSS · Docker · Git · GitHub Actions · Linux
+### [Motiva ORION](https://github.com/JoaoVictorAAbreu-Dev/motiva-orion-operational-platform)
 
-**Also explored**  
-C · C++ · C# · Kotlin · Dart · Rust
+Full-stack platform for roadside vegetation monitoring, explainable prioritization, simulations and maintenance planning.
 
-<br>
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL`
 
-### Selected work
+### [Green Operations Control Center](https://github.com/JoaoVictorAAbreu-Dev/green-operations-control-center)
 
-#### [Motiva ORION ↗](https://github.com/JoaoVictorAAbreu-Dev/orion-operacional)
+Web platform for roadside vegetation monitoring, service prioritization and maintenance-team planning.
 
-*Operational Intelligence Platform*
+`Java` `Spring Boot` `React` `PostgreSQL`
 
-Full-stack platform for roadside vegetation monitoring and operational decision-making. Supports maintenance prioritization, operational mapping, data imports and explainable simulations for field operations.
+### [Atlas Operations API](https://github.com/JoaoVictorAAbreu-Dev/atlas-operations-api)
 
-<sub>FastAPI &nbsp; / &nbsp; React &nbsp; / &nbsp; TypeScript &nbsp; / &nbsp; PostgreSQL &nbsp; / &nbsp; ETL</sub>
+REST API for operational monitoring, prioritization and field-service planning, with a focus on maintainable backend structure.
 
-<br>
+`Java` `Spring Boot` `REST` `PostgreSQL`
 
-#### [Centro Operacional Verde ↗](https://github.com/JoaoVictorAAbreu-Dev/centro-operacional-verde)
+### [TaskFlow Management](https://github.com/JoaoVictorAAbreu-Dev/taskflow-management-java)
 
-*Operations Management System*
+Java task-management application for organizing work, priorities and execution flow.
 
-Operational platform connecting a secure Java backend with workflows for monitoring, prioritization and field-team planning. Built around authentication, maintainable architecture and operational data.
-
-<sub>Java 21 &nbsp; / &nbsp; Spring Boot &nbsp; / &nbsp; JWT &nbsp; / &nbsp; JPA &nbsp; / &nbsp; React &nbsp; / &nbsp; Docker</sub>
-
-<br>
-
-#### [CodeFlow ↗](https://github.com/JoaoVictorAAbreu-Dev/codeflow-study-platform)
-
-*Developer Productivity Platform*
-
-Platform for organizing development projects, study sessions, technical roadmaps and long-term progress. Combines project-management workflows with backend services and developer-oriented tooling.
-
-<sub>Next.js &nbsp; / &nbsp; TypeScript &nbsp; / &nbsp; Java &nbsp; / &nbsp; PostgreSQL &nbsp; / &nbsp; Redis</sub>
-
-<br>
-
-#### [DevTrack AI ↗](https://github.com/JoaoVictorAAbreu-Dev/project-devtrack-ai)
-
-*AI-assisted Developer Tooling*
-
-Experimental project exploring practical AI integration in developer workflows, project organization and technical learning. It treats AI as an engineering tool—not as the product's only feature.
-
-<sub>Java &nbsp; / &nbsp; Backend systems &nbsp; / &nbsp; AI integration</sub>
-
-<br>
+`Java` `Spring Boot` `JPA` `PostgreSQL`
 
 <p align="center">
-  <a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><strong>Explore all repositories →</strong></a>
+  <a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><strong>Explore all repositories</strong></a>
 </p>
 
-<br>
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=0F766E&icon_color=0F766E&text_color=475569&custom_title=GitHub%20Overview" alt="GitHub overview statistics" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&hide_border=true&langs_count=8&count_private=false&theme=transparent&title_color=0F766E&text_color=475569&custom_title=Most%20Used%20Languages" alt="Most used programming languages" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>These cards reflect public repository activity and are not a measure of skill or experience.</sub>
+</p>
+
+## Currently Learning
+
+Software architecture, distributed systems, testing strategy, data engineering and practical AI integration for developer tools.
 
 <div align="center">
 
 ### Understand the problem. Design the system. Then write the code.
 
-Building, learning and occasionally finding out the bug was one line of code.
-
 </div>
 
-<br>
-
-### Engineering in motion
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;show_icons=true&amp;title_color=7777DD&amp;icon_color=7777DD&amp;text_color=777777&amp;disable_animations=true&amp;custom_title=Building%20in%20public" width="480" alt="GitHub public activity statistics" /></a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&amp;theme=transparent&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;title_color=7777DD&amp;text_color=777777&amp;disable_animations=true&amp;custom_title=Languages%20across%20projects" width="400" alt="Languages used in public repositories" /></a>
-</p>
-
-<p align="center"><sub>Public activity, not a measure of proficiency. Language share reflects repository code.</sub></p>
-
 <!--
-Banner: https://www.figma.com/design/yh56LKJngtXd768xZ4LGmY?node-id=2-2
-Community projects:
+Community projects used in this profile README:
+- https://github.com/DenverCoder1/readme-typing-svg
 - https://github.com/anuraghazra/github-readme-stats
 - https://github.com/devicons/devicon
-- https://github.com/DenverCoder1/readme-typing-svg
-Stats use the original public service. No stats workflow is required; see SETUP.md.
 -->

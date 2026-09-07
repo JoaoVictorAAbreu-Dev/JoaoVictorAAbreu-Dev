@@ -121,16 +121,17 @@
 
 <p align="center">
   <a href="https://github.com/JoaoVictorAAbreu-Dev/github-readme-stats">
-    <img width="49%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-stats/master/profile/stats.svg" alt="GitHub overview statistics" />
+    <img width="35%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-stats/master/profile/stats.svg" alt="GitHub overview statistics" />
   </a>
-  <a href="https://github.com/JoaoVictorAAbreu-Dev/github-readme-stats">
-    <img width="49%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-stats/master/profile/top-langs.svg" alt="Most used programming languages" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/JoaoVictorAAbreu-Dev/github-readme-streak-stats">
-    <img width="56%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-streak-stats/main/profile/streak.svg" alt="GitHub contribution streak" />
+    <img width="35%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-streak-stats/main/profile/streak.svg" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+<a href="https://github.com/JoaoVictorAAbreu-Dev/github-readme-stats">
+    <img width="35%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-stats/master/profile/top-langs.svg" alt="Most used programming languages" />
   </a>
 </p>
 

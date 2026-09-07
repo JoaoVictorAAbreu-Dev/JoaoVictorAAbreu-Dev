@@ -1,63 +1,87 @@
 <div align="center">
 
-# Joao Victor Alves de Abreu
+# João Victor Alves de Abreu
 
-### Backend engineer focused on systems, APIs and data
+### Backend engineer · systems · APIs · data
 
 <p>
   <a href="https://www.linkedin.com/in/joaovictoraabreu/">LinkedIn</a>
-  &nbsp;&middot;&nbsp;
+  &nbsp;·&nbsp;
   <a href="mailto:joaovictoralvesabreu0812@gmail.com">Email</a>
-  &nbsp;&middot;&nbsp;
+  &nbsp;·&nbsp;
   <a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories">Repositories</a>
 </p>
 
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=520&lines=Building+reliable+backend+systems;Designing+clear+and+secure+APIs;Turning+problems+into+maintainable+software" alt="Typing introduction" />
+
 </div>
 
----
+<br />
 
-## 01 / About me
+<div align="center">
 
-Computer Science student from São Paulo, Brazil, focused on backend engineering and system design. I turn practical problems into maintainable software through clear APIs, secure workflows and reliable data pipelines.
+## About me
 
-
-## 02 / My daily driver
+</div>
 
 <p align="center">
+  Computer Science student from São Paulo, Brazil, focused on backend engineering and system design.<br />
+  I turn practical problems into maintainable software through clear APIs,<br />
+  secure workflows and reliable data pipelines.
+</p>
+
+<br />
+
+<div align="center">
+
+## My daily driver
+
+<p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+</div>
 
-## 03 / Tech stack
+<br />
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <strong>Backend</strong><br /><br />
-      Java<br />Spring Boot<br />Spring Security<br />Python<br />FastAPI
-    </td>
-    <td align="center" width="25%">
-      <strong>Data</strong><br /><br />
-      PostgreSQL<br />Redis<br />JPA / Hibernate<br />ETL<br />SQL
-    </td>
-    <td align="center" width="25%">
-      <strong>Frontend</strong><br /><br />
-      React<br />TypeScript<br />Next.js<br />Tailwind CSS
-    </td>
-    <td align="center" width="25%">
-      <strong>Delivery</strong><br /><br />
-      Docker<br />Git<br />GitHub Actions<br />JUnit<br />Mockito
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+## Tech stack
 
-## 04 / Languages and tools
+</div>
 
 <p align="center">
+  <strong>Backend</strong><br />
+  Java · Spring Boot · Spring Security · Python · FastAPI
+</p>
+
+<p align="center">
+  <strong>Data</strong><br />
+  PostgreSQL · Redis · JPA / Hibernate · ETL · SQL
+</p>
+
+<p align="center">
+  <strong>Frontend</strong><br />
+  React · TypeScript · Next.js · Tailwind CSS
+</p>
+
+<p align="center">
+  <strong>Delivery & quality</strong><br />
+  Docker · Git · GitHub Actions · JUnit · Mockito · Linux
+</p>
+
+<br />
+
+<div align="center">
+
+## Languages & tools
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="38" height="38" alt="Java" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="38" height="38" alt="Python" />&nbsp;&nbsp;
@@ -68,60 +92,81 @@ Computer Science student from São Paulo, Brazil, focused on backend engineering
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="38" height="38" alt="Git" />
 </p>
 
-<p align="center"><sub>Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL · Redis · Docker · Linux</sub></p>
+<sub>Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL · Redis · Docker · Linux</sub>
 
+</div>
 
-## 05 / Selected work
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JoaoVictorAAbreu-Dev/motiva-orion-operational-platform">Motiva ORION</a></h3>
-      <p>Roadside vegetation monitoring, explainable prioritization, simulations and maintenance planning.</p>
-      <sub>Python · FastAPI · React · PostgreSQL</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JoaoVictorAAbreu-Dev/green-operations-control-center">Green Operations</a></h3>
-      <p>Service prioritization, monitoring and maintenance-team planning in an operational web platform.</p>
-      <sub>Java · Spring Boot · React · PostgreSQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JoaoVictorAAbreu-Dev/atlas-operations-api">Atlas Operations API</a></h3>
-      <p>REST API for operational monitoring, prioritization and field-service planning.</p>
-      <sub>Java · Spring Boot · REST · PostgreSQL</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JoaoVictorAAbreu-Dev/taskflow-management-java">TaskFlow Management</a></h3>
-      <p>Task-management application for organizing work, priorities and execution flow.</p>
-      <sub>Java · Spring Boot · JPA · PostgreSQL</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><strong>Explore all repositories</strong></a></p>
-
-
-## 06 / Analytics (cor preta)
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorAAbreu-Dev&theme=default&date_format=%5BY-%5Dm-%5Dd&background=FFFFFF&ring=000000&fire=000000&currStreakNum=000000" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="Top languages" />
-</p>
-
-<p align="center"><sub>Static cards updated by GitHub Actions from public activity.</sub></p>
-
----
+<br />
 
 <div align="center">
+
+## Selected work
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/JoaoVictorAAbreu-Dev/motiva-orion-operational-platform"><strong>Motiva ORION</strong></a><br />
+  Roadside vegetation monitoring, explainable prioritization,<br />
+  simulations and maintenance planning.<br />
+  <sub>Python · FastAPI · React · PostgreSQL</sub>
+</p>
+
+<p align="center">──────────</p>
+
+<p align="center">
+  <a href="https://github.com/JoaoVictorAAbreu-Dev/green-operations-control-center"><strong>Green Operations</strong></a><br />
+  Service prioritization, monitoring and maintenance-team planning<br />
+  in an operational web platform.<br />
+  <sub>Java · Spring Boot · React · PostgreSQL</sub>
+</p>
+
+<p align="center">──────────</p>
+
+<p align="center">
+  <a href="https://github.com/JoaoVictorAAbreu-Dev/atlas-operations-api"><strong>Atlas Operations API</strong></a><br />
+  REST API for operational monitoring, prioritization<br />
+  and field-service planning.<br />
+  <sub>Java · Spring Boot · REST · PostgreSQL</sub>
+</p>
+
+<p align="center">──────────</p>
+
+<p align="center">
+  <a href="https://github.com/JoaoVictorAAbreu-Dev/taskflow-management-java"><strong>TaskFlow Management</strong></a><br />
+  Task-management application for organizing work,<br />
+  priorities and execution flow.<br />
+  <sub>Java · Spring Boot · JPA · PostgreSQL</sub>
+</p>
+
+<p align="center"><a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><strong>Explore all repositories →</strong></a></p>
+
+<br />
+
+<div align="center">
+
+## GitHub activity
+
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub stats" />
+</p>
+
+<p>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorAAbreu-Dev&theme=default&date_format=%5BY-%5Dm-%5Dd&background=FFFFFF&ring=000000&fire=000000&currStreakNum=000000" alt="GitHub streak" />
+</p>
+
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="Top languages" />
+</p>
+
+<sub>Static cards updated by GitHub Actions from public activity.</sub>
+
+</div>
+
+<br />
+
+<div align="center">
+
+---
 
 Open to backend and software engineering internship or junior opportunities.
 

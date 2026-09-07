@@ -4,8 +4,6 @@
 
 ### Backend engineer focused on systems, APIs and data
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1600&color=0F766E&center=true&vCenter=true&width=680&height=38&lines=Java+%7C+Spring+Boot+%7C+Python+%7C+PostgreSQL;Building+useful+software+with+clear+engineering+decisions" alt="Typing animation describing Joao Victor's focus" /></a>
-
 <p>
   <a href="https://www.linkedin.com/in/joaovictoraabreu/">LinkedIn</a>
   &nbsp;&middot;&nbsp;
@@ -16,37 +14,24 @@
 
 </div>
 
-<hr />
+---
 
-<h2>01 / About me</h2>
+## 01 / About me
 
-<p>
-  Computer Science student from Sao Paulo, Brazil, focused on backend engineering and system design. I turn practical problems into maintainable software through clear APIs, secure workflows, well-structured data and thoughtful engineering decisions.
-</p>
+Computer Science student from São Paulo, Brazil, focused on backend engineering and system design. I turn practical problems into maintainable software through clear APIs, secure workflows and reliable data pipelines.
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Focus</strong><br />
-      Backend systems, authentication, persistence and API design.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Direction</strong><br />
-      Distributed systems, data engineering and developer tooling.
-    </td>
-  </tr>
-</table>
 
-<h2>02 / My daily driver</h2>
+## 02 / My daily driver
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-0F766E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0F766E?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0F766E?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<h2>03 / Tech stack</h2>
+
+## 03 / Tech stack
 
 <table align="center">
   <tr>
@@ -69,7 +54,8 @@
   </tr>
 </table>
 
-<h2>04 / Languages and tools</h2>
+
+## 04 / Languages and tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="38" height="38" alt="Java" />&nbsp;&nbsp;
@@ -82,11 +68,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="38" height="38" alt="Git" />
 </p>
 
-<p align="center">
-  <sub>Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL · Redis · Docker · Linux</sub>
-</p>
+<p align="center"><sub>Java · Spring Boot · Python · FastAPI · React · TypeScript · PostgreSQL · Redis · Docker · Linux</sub></p>
 
-<h2>05 / Selected work</h2>
+
+## 05 / Selected work
 
 <table align="center">
   <tr>
@@ -117,27 +102,24 @@
 
 <p align="center"><a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories"><strong>Explore all repositories</strong></a></p>
 
-<h2>06 / Analytics</h2>
+
+## 06 / Analytics (cor preta)
 
 <p align="center">
-  <a href="https://github.com/JoaoVictorAAbreu-Dev/github-readme-stats">
-    <img width="35%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-stats/master/profile/stats.svg" alt="GitHub overview statistics" />
-  </a>
-
-<p align="center">
-  <a href="https://github.com/JoaoVictorAAbreu-Dev/github-readme-streak-stats">
-    <img width="35%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-streak-stats/main/profile/streak.svg" alt="GitHub contribution streak" />
-  </a>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub stats" />
 </p>
 
-<a href="https://github.com/JoaoVictorAAbreu-Dev/github-readme-stats">
-    <img width="35%" src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/github-readme-stats/master/profile/top-langs.svg" alt="Most used programming languages" />
-  </a>
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorAAbreu-Dev&theme=default&date_format=%5BY-%5Dm-%5Dd&background=FFFFFF&ring=000000&fire=000000&currStreakNum=000000" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="Top languages" />
 </p>
 
 <p align="center"><sub>Static cards updated by GitHub Actions from public activity.</sub></p>
 
-<hr />
+---
 
 <div align="center">
 

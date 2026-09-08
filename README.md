@@ -5,7 +5,7 @@
 ### Backend engineer · systems · APIs · data
 
 <p>
-  <a href="https://www.linkedin.com/in/joaovictoraabreu/">LinkedIn</a>
+  <a href="www.linkedin.com/in/joãovictoraabreu>LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:joaovictoralvesabreu0812@gmail.com">Email</a>
   &nbsp;·&nbsp;

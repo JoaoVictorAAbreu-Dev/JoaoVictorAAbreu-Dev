@@ -145,20 +145,16 @@
 
 ## GitHub activity
 
-<p>
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&hide_border=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub stats" />
-</p>
+<div>
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorAAbreu-Dev&hide_border=true&theme=dark" alt="GitHub streak" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
+  </p>
 
-<p>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorAAbreu-Dev&theme=dark&hide_border=true&background=0D1117&border=30363D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-</p>
-
-<p>
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&hide_border=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="Top languages" />
-</p>
-
-<sub>Static cards updated by GitHub Actions from public activity.</sub>
-
+  <p align="center">
+    <sub>Static cards updated by GitHub Actions from public activity.</sub>
+  </p>
 </div>
 
 <br />

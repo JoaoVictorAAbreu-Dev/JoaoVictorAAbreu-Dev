@@ -14,8 +14,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=000000&center=true&vCenter=true&width=520&lines=Building+reliable+backend+systems;Designing+clear+and+secure+APIs;Turning+problems+into+maintainable+software" alt="Typing introduction" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=520&lines=Building+reliable+backend+systems;Designing+clear+and+secure+APIs;Turning+problems+into+maintainable+software" alt="Typing introduction" />
 </div>
 
 <br />

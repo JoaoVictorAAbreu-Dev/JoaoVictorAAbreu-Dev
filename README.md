@@ -128,9 +128,9 @@
 ## GitHub activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&hide_border=true&theme=dark" alt="GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=JoaoVictorAAbreu-Dev&hide_border=true&theme=dark" alt="GitHub contribution streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
 </p>
 
 <sub>Cards generated from public GitHub activity.</sub>

@@ -74,6 +74,14 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/JoaoVictorAAbreu-Dev/aetheros-rust-project"><strong>AetherOS</strong></a><br />
+  Educational x86_64 operating system with a modular Rust kernel, Limine/UEFI boot flow and reproducible QEMU validation.<br />
+  <sub>Rust · x86_64 · OSDev · QEMU</sub>
+</p>
+
+<p align="center">──────────</p>
+
+<p align="center">
   <a href="https://github.com/JoaoVictorAAbreu-Dev/fiap-sprint-02motiva-orion-mobile"><strong>Motiva ORION Mobile</strong></a><br />
   Mobile experience created for the Motiva ORION challenge during FIAP Sprint 02.<br />
   <sub>TypeScript</sub>

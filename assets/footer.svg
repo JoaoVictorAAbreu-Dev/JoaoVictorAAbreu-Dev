@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="88" viewBox="0 0 900 88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<rect x="1" y="1" width="898" height="86" rx="12" fill="#0A0A0A" stroke="#2E2E2E" stroke-width="2"/>
+<text x="32" y="38" font-size="15"><tspan fill="#9A9A9A">joao@github:~$</tspan><tspan fill="#FFFFFF"> exit</tspan></text>
+<text x="32" y="66" font-size="15" fill="#5A5A5A"># thanks for stopping by · understand the problem, design the system, then write the code</text>
+</svg>

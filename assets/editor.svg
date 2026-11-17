@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="250" viewBox="0 0 520 250" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<rect x="1" y="1" width="518" height="248" rx="12" fill="#0A0A0A" stroke="#2E2E2E" stroke-width="2"/>
+<line x1="1" y1="40" x2="519" y2="40" stroke="#2E2E2E" stroke-width="2"/>
+<circle cx="26" cy="21" r="6" fill="#6E6E6E"/><circle cx="46" cy="21" r="6" fill="#9A9A9A"/><circle cx="66" cy="21" r="6" fill="#C8C8C8"/>
+<text x="260.0" y="26" text-anchor="middle" font-size="13" fill="#5A5A5A">AboutMe.java</text>
+<text x="20" y="82" font-size="13" fill="#5A5A5A">1</text><text x="52" y="82" font-size="14" xml:space="preserve"><tspan fill="#E6E6E6">public </tspan><tspan fill="#E6E6E6">class </tspan><tspan fill="#FFFFFF">JoaoVictor </tspan><tspan fill="#6E6E6E">{</tspan></text>
+<text x="20" y="108" font-size="13" fill="#5A5A5A">2</text><text x="52" y="108" font-size="14" xml:space="preserve"><tspan fill="#9A9A9A">  String </tspan><tspan fill="#FFFFFF">role  </tspan><tspan fill="#6E6E6E">= </tspan><tspan fill="#BDBDBD">"CS student"</tspan><tspan fill="#6E6E6E">;</tspan></text>
+<text x="20" y="134" font-size="13" fill="#5A5A5A">3</text><text x="52" y="134" font-size="14" xml:space="preserve"><tspan fill="#9A9A9A">  String </tspan><tspan fill="#FFFFFF">focus </tspan><tspan fill="#6E6E6E">= </tspan><tspan fill="#BDBDBD">"backend · APIs"</tspan><tspan fill="#6E6E6E">;</tspan></text>
+<text x="20" y="160" font-size="13" fill="#5A5A5A">4</text><text x="52" y="160" font-size="14" xml:space="preserve"><tspan fill="#9A9A9A">  String </tspan><tspan fill="#FFFFFF">base  </tspan><tspan fill="#6E6E6E">= </tspan><tspan fill="#BDBDBD">"São Paulo, BR"</tspan><tspan fill="#6E6E6E">;</tspan></text>
+<text x="20" y="186" font-size="13" fill="#5A5A5A">5</text><text x="52" y="186" font-size="14" xml:space="preserve"><tspan fill="#9A9A9A">  boolean </tspan><tspan fill="#FFFFFF">openToWork </tspan><tspan fill="#6E6E6E">= </tspan><tspan fill="#E6E6E6">true</tspan><tspan fill="#6E6E6E">;</tspan></text>
+<text x="20" y="212" font-size="13" fill="#5A5A5A">6</text><text x="52" y="212" font-size="14" xml:space="preserve"><tspan fill="#6E6E6E">}</tspan></text>
+
+</svg>

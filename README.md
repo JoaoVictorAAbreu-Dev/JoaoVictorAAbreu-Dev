@@ -52,6 +52,7 @@ I like systems that are clear, secure and easy to maintain, from REST APIs and a
 <!-- ============ 03. projects() ============ -->
 <img src="assets/h-projects.svg" width="100%" alt="03. projects()" />
 
+<!-- PROJECTS:START -->
 <table align="center">
   <tr>
     <td width="50%" valign="top">
@@ -93,6 +94,7 @@ I like systems that are clear, secure and easy to maintain, from REST APIs and a
 
 <p align="center"><sub><a href="https://github.com/JoaoVictorAAbreu-Dev?tab=repositories">$ ls ~/repositories →</a></sub></p>
 
+<!-- PROJECTS:END -->
 <br/>
 
 <!-- ============ 04. stats() ============ -->

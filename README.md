@@ -93,8 +93,9 @@ I like systems that are clear, secure and easy to maintain, from REST APIs and a
 </table>
 
 <details>
-<summary><sub>all repositories (60)</sub></summary>
+<summary><sub>all repositories (61)</sub></summary>
 
+- [sonora-music-app](https://github.com/JoaoVictorAAbreu-Dev/sonora-music-app) — `TypeScript`
 - [gs-2026-cpad](https://github.com/JoaoVictorAAbreu-Dev/gs-2026-cpad) — Global Solution FIAP 2026.2 — Cross-Platform Application Development · `Dart`
 - [bloom-mobile-app](https://github.com/JoaoVictorAAbreu-Dev/bloom-mobile-app) — Mobile application project focused on a clean, modern product experience. · `Kotlin`
 - [FIA-GS2-POO](https://github.com/JoaoVictorAAbreu-Dev/FIA-GS2-POO) — `Java`
@@ -127,8 +128,8 @@ I like systems that are clear, secure and easy to maintain, from REST APIs and a
 - [CP04-streamfiap-bughunt-clube-das-winx](https://github.com/JoaoVictorAAbreu-Dev/CP04-streamfiap-bughunt-clube-das-winx) — `Java`
 - [green-operations-control-center](https://github.com/JoaoVictorAAbreu-Dev/green-operations-control-center) — Web platform for roadside vegetation monitoring, service prioritization, and maintenance-team planning. · `Java`
 - [pulse-desk-api](https://github.com/JoaoVictorAAbreu-Dev/pulse-desk-api) — Backend API for service-desk workflows, requests, and operational support management. · `Java`
-- [focus-pilot-api](https://github.com/JoaoVictorAAbreu-Dev/focus-pilot-api) — Backend API for focus, planning, and personal productivity workflows. · `Java`
 - [ledger-pulse-api](https://github.com/JoaoVictorAAbreu-Dev/ledger-pulse-api) — Backend API for financial records, transaction tracking, and personal finance insights. · `Java`
+- [focus-pilot-api](https://github.com/JoaoVictorAAbreu-Dev/focus-pilot-api) — Backend API for focus, planning, and personal productivity workflows. · `Java`
 - [taskflow-management-java](https://github.com/JoaoVictorAAbreu-Dev/taskflow-management-java) — Java task-management application focused on organizing work, priorities, and execution flow. · `Java`
 - [corporate-ticketing-system-csharp](https://github.com/JoaoVictorAAbreu-Dev/corporate-ticketing-system-csharp) — C# system for registering, organizing, and tracking corporate support requests. · `C#`
 - [cpp-mini-database](https://github.com/JoaoVictorAAbreu-Dev/cpp-mini-database) — Educational C++ implementation of a compact database and data-management concepts. · `C++`
